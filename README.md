@@ -2,7 +2,6 @@
 
 ![image alt](https://github.com/DylanSlayton/Automated-Rock-Candy-Maker/blob/main/Automated%20Rock%20Candy%20Poster.png?raw=true)
 
-Script, 3-D models, and schematics used to design the project
 
 See Rock Candy Maker P&ID Spec Sheet Uploadable for more detailed equipment list; the following is in Layman's terms for hobbyists and includes tools and non-electronics used to assemble the project that are not relavent to the engineering aspect
 
